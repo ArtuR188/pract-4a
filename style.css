@@ -1,0 +1,230 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.containerr {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+.nav-item {
+    cursor: pointer;
+    margin: 0 15px;
+    padding: 10px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.image {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.image-container img {
+    border-radius: 10px;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
+
+.text1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 20px 0;
+    color: #333;
+}
+
+.text {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #555;
+}
+
+.email-input {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.email-input input {
+    margin-right: 10px;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+.submit-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cities {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.column {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+.round-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 10px 0;
+}
+
+.main {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.main-text {
+    margin: 20px 0;
+}
+
+.item1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #333;
+}
+
+.item2 {
+    font-size: 18px;
+    color: #555;
+    margin: 10px 0;
+}
+
+.seca {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.imag {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+
+.ro {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.photo {
+    border-radius: 10%;
+    width: 400px;
+    height: 400px;
+    margin-right: 20px;
+}
+
+.text-container {
+    border-radius: 10%;
+    background-color: #fff;
+    padding: 20px;
+    flex-grow: 1;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.chat {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.chat2 {
+    font-size: 18px;
+    color: #333;
+}
+
+.mn-text {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.item3 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #333;
+}
+
+.item4 {
+    font-size: 18px;
+    color: #555;
+    margin: 10px 0;
+}
+
+.new img {
+    border-radius: 10px;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
+
+.end {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.last {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #333;
+}
+
+h2 {
+    font-weight: lighter;
+    margin: 10px 0;
+    color: #555;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+input {
+    margin-right: 10px;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
